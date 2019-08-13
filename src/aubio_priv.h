@@ -37,9 +37,9 @@
 #include "config.h"
 #endif
 
-#ifdef HAVE_STDLIB_H
+//#ifdef HAVE_STDLIB_H
 #include <stdlib.h>
-#endif
+//#endif
 
 #ifdef HAVE_STDIO_H
 #include <stdio.h>
@@ -54,13 +54,13 @@
 #include <fftw3.h>
 #endif
 
-#ifdef HAVE_MATH_H
+//#ifdef HAVE_MATH_H
 #include <math.h>
-#endif
+//#endif
 
-#ifdef HAVE_STRING_H
+//#ifdef HAVE_STRING_H
 #include <string.h>
-#endif
+//#endif
 
 #ifdef HAVE_ERRNO_H
 #include <errno.h>
