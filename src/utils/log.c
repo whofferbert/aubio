@@ -19,6 +19,7 @@
 */
 
 #include <stddef.h>
+#include <stdio.h>
 #include "aubio_priv.h"
 #include "log.h"
 
