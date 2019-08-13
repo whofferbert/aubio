@@ -20,6 +20,7 @@
 
 /* see in mathutils.h for doc */
 
+#include <stddef.h>
 #include "aubio_priv.h"
 #include "fvec.h"
 #include "mathutils.h"

@@ -18,6 +18,7 @@
 
 */
 
+#include <stddef.h>
 #include "aubio_priv.h"
 
 #ifdef HAVE_LIBAV
@@ -56,6 +57,7 @@
 #define av_packet_unref av_free_packet
 #endif
 
+#include <stddef.h>
 #include "aubio_priv.h"
 #include "fvec.h"
 #include "fmat.h"

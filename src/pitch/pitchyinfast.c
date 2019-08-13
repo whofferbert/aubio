@@ -27,6 +27,7 @@
  * see http://recherche.ircam.fr/equipes/pcm/pub/people/cheveign.html
  */
 
+#include <stddef.h>
 #include "aubio_priv.h"
 #include "fvec.h"
 #include "mathutils.h"

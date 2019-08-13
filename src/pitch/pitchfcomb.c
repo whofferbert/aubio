@@ -19,6 +19,7 @@
 
 */
 
+#include <stddef.h>
 #include "aubio_priv.h"
 #include "fvec.h"
 #include "cvec.h"
